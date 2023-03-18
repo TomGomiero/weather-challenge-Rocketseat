@@ -1,7 +1,7 @@
-My Project
+My Project:
 This project was created using React JS and the OPEN weather API to get weather information for the first card, called "box weather", using Axios (different from the Rocket Seat challenge). Unfortunately, the API requests have not yet been implemented in the other cards, but they will be implemented gradually, as well as some future improvements.
 
-Technologies
+Technologies:
 This project was developed using the following technologies:
 
 React JS
