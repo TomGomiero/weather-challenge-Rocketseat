@@ -1,0 +1,67 @@
+.mainContainer {
+  border-radius: 10px;
+  background: #6d67d0;
+}
+
+.mainContainer .sunsetIndicator {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 34px;
+  margin-bottom: 26px;
+  color: #dad8f7;
+}
+
+.sunsetTimeContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 16px;
+
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.sunChart {
+  margin: auto;
+  position: relative;
+}
+
+.sunChart::before {
+  content: "";
+
+  width: 1.2rem;
+  height: 1.2rem;
+  background: #f6c833;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 85%;
+  left: -5%;
+}
+
+.sunChart p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.time {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 16px;
+
+  font-size: 12px;
+  font-weight: 700;
+  color: #dad8f7;
+}
