@@ -16,7 +16,7 @@ Start the application using the command npm start.
 
 
 
-Future improvements
+Future improvements:
 Implement the API requests in the other cards.
 Add new features to the application.
 Feel free to suggest improvements or contribute to the project!
