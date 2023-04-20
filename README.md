@@ -13,6 +13,9 @@ To run this project, follow these steps:
 Clone this repository.
 Install all dependencies using the command npm install.
 Start the application using the command npm start.
+
+
+
 Future improvements
 Implement the API requests in the other cards.
 Add new features to the application.
