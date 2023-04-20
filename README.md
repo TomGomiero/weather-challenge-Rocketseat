@@ -7,7 +7,7 @@ This project was developed using the following technologies:
 React JS,
 Axios,
 OPEN weather API,
-Getting started,
+
 To run this project, follow these steps:
 
 Clone this repository.
